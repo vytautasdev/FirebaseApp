@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680911078000",
+    "project_id": "firestoresandbox-79d10",
+    "storage_bucket": "firestoresandbox-79d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680911078000:android:f608d6c7502528ca7a2ab5",
+        "android_client_info": {
+          "package_name": "com.vytautas.dev.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680911078000-apa63kci60meug1bt2k5bguk1omldgcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOactDDd5jEL24zTFcCj_ob9VlT3RUUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680911078000-apa63kci60meug1bt2k5bguk1omldgcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
